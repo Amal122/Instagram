@@ -63,5 +63,5 @@ export default createBottomTabNavigator(
        showLabel:true,
        showIcon:true
      }
-    
+    g
    });
